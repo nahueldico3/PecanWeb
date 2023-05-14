@@ -1,0 +1,50 @@
+[
+    {
+        "precio": 350,
+        "id": 1,
+        "title": "Mix de frutos secos x100gr",
+        "thumbnailUrl": "https://elmercaditodeursula.com/wp-content/uploads/2020/11/mixfrutos.jpg"
+    },
+    {
+        "precio": 240,
+        "id": 2,
+        "title": "Cachafaz de frutos secos",
+        "thumbnailUrl": "http://d2r9epyceweg5n.cloudfront.net/stores/001/320/338/products/cachafaz-integral-granola-y-frutos-secos1-c18547f7ff793cd6fd15988271984883-640-0.jpg"
+    },
+    {
+        "precio": 1250,
+        "id": 3,
+        "title": "Frutos rojos congelados x500gr",
+        "thumbnailUrl": "https://nyc3.digitaloceanspaces.com/dec-solimeno/__sized__/products/MOCKUP_frutos_rojos-crop-c0-5__0-5-540x540-70.jpg"
+    },
+    {
+        "precio": 2450,
+        "id": 4,
+        "title": "Aceite de coco para cocina x500ml",
+        "thumbnailUrl": "https://www.conasi.eu/8077-thickbox/aceite-coco-cocinar-ecologico-dr-goerg.jpg"
+    },
+    {
+        "precio": 150,
+        "id": 5,
+        "title": "Alfajor Epuyen de algarrobo",
+        "thumbnailUrl": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/172/573/products/fmer75891-4cc79a19351fcca7e115912936195423-640-0.png"
+    },
+    {
+        "precio": 680,
+        "id": 6,
+        "title": "Hamburguesa de lenteja",
+        "thumbnailUrl": "https://jumboargentina.vtexassets.com/arquivos/ids/592576/Hamburguesa-Veggie-Lentejas-Y-Arroz-Yam-1-850777.jpg?v=637297746782570000"
+    },
+    {
+        "precio": 220 ,
+        "id": 7,
+        "title": "Barritas ProteinBar",
+        "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/966/664/products/merpb1-ebfe21ad700af0a02215688324536723-1024-1024.jpg"
+    },
+    {
+        "precio": 480,
+        "id": 8,
+        "title": "Caramelos de propoleo x140gr",
+        "thumbnailUrl": "http://farmaciazentner.com.ar/wp-content/uploads/2021/06/7795379100712.jpg"
+    }
+]

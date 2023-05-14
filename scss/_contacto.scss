@@ -1,0 +1,68 @@
+.contact {
+    display: flex;
+    justify-content: center;
+    .contacto {
+        display: flex;
+        justify-content: center;
+        width: 900px;
+        height: 550px;
+        border: 2px solid $colorUno;
+        border-radius: 20px;
+        .contactoLabels {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 50px;
+            .contactoUno {
+            padding: 10px 0px;
+            font-weight: bold;
+            }
+            .contactoDos {
+                padding: 10px 0px;
+                font-weight: bold;
+            }
+            .contactoTres {
+                padding: 10px 0px;
+                font-weight: bold;
+            }
+            .contactoCuatro {
+                display: flex;
+                flex-direction: column;
+                padding: 10px 0px;
+                font-weight: bold;
+                label {
+                    padding: 5px 0px;
+                }
+            }
+            button {
+                width: 80px;
+                height: 30px;
+                margin-bottom: 20px;
+                border: 2px solid $colorUno;
+                border-radius: 5px;
+                background-color: white;
+                color: black;
+                font-size: 15px;
+                font-weight: bold;
+            }
+        }
+    }
+        .contactoTelefonos {
+            display: flex;
+            flex-direction: column;
+            margin: 50px;
+            .contactoP {
+                display: flex;
+                justify-content: center;
+                color: white;
+                font-size: 25px;
+                font-weight: bold;
+                padding: 30px 0px;
+            }
+            .contactoCinco {
+                display: flex;
+                flex-direction: row;
+                font-size: 18px;
+            }
+        }
+}

@@ -1,0 +1,33 @@
+.containersNosotros {
+    display: flex;
+    justify-content: center;
+    .containerNosotros{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        margin: 50px;
+        img {
+            width: 25%;
+            border: 2px solid rgb(12, 166, 81);
+            border-radius: 100px;
+        }
+        .parrafosNosotros {
+            display: block;
+            align-items: center;
+            width: 500px;
+            margin: 0px 100px;
+            h4 {
+                padding: 20px 0px;
+            }
+        }
+    }
+}
+
+.lineaBorde {
+    display: flex;
+    justify-content: center;
+    height: 80%;
+    margin-top: 6%;
+    border-left: 1px solid $colorUno;
+}

@@ -1,0 +1,36 @@
+header {
+    background-image: url("../img/Banner con degrade.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    div {
+        padding: 10px;
+        margin-left: 80px;;
+        h1 {
+            color: white;
+            font-size: 35px;
+        }
+        h2 {
+            color: $colorCuatro;
+            padding-bottom: 5px;
+            font-size: 28px;
+        }
+        p {
+            width: 400px;
+            color: white;
+            padding-top: 10px;
+            padding-bottom: 20px;
+            font-size: 15px;
+        }
+        button {
+            width: 150px;
+            height: 40px;
+            margin-bottom: 20px;
+            border: 0;
+            border-radius: 5px;
+            background-color: $colorUno;
+            color: white;
+            font-size: 17px;
+            font-weight: bold;
+        }
+    }
+}
